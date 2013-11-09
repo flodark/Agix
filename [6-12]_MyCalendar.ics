@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20121206T070000Z
+DTEND:20121206T112000Z
+SUMMARY:TD INFO - X7II010 Génie Logiciel, M1ALMA - Architectures Logicielles, M1ATAL
+LOCATION:sa U5 (Bât 2)
+DESCRIPTION:Matière : X7II010 Génie Logiciel
+Personnel : SUNYE, Gerson
+Groupe : M1ALMA - Architectures Logicielles, M1ATAL
+Salle : sa U5 (Bât 2)
+Remarques : 12-24-12 
+
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/backport-util-concurrent-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/gdata-calendar-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/gdata-client-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/gdata-core-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/groovy-all-1.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/ical4j-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/jsr305.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/junit-dep-4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/miglayout-4.0-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/spock-core-0.6-groovy-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/florian/Downloads/lib/tagsoup-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
